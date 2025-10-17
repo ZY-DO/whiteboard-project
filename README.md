@@ -1,6 +1,7 @@
 # MeetingCanvas - 触控画板系统
 
 基于ARM-CortexA53开发板的高精度触控绘图系统，专为会议演示和教学板书场景设计。
+演示视频 → https://www.bilibili.com/video/BV1UqWEzVE1h/?share_source=copy_web&vd_source=cc55faa7216a61f8a662679904f6753d
 
 ## 📋 项目简介
 
